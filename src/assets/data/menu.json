@@ -1,0 +1,31 @@
+[{
+        "title": "Inicio",
+        "url": "/folder/Inicio",
+        "icon": "home"
+    },
+    {
+        "title": "Compras",
+        "url": "/folder/Compras",
+        "icon": "add-circle"
+    },
+    {
+        "title": "Inventario",
+        "url": "/folder/Inventario",
+        "icon": "albums"
+    },
+    {
+        "title": "Ventas",
+        "url": "/folder/Ventas",
+        "icon": "book"
+    },
+    {
+        "title": "Configuración",
+        "url": "/folder/Configuración",
+        "icon": "build"
+    },
+    {
+        "title": "Salir",
+        "url": "/folder/Salir",
+        "icon": "power"
+    }
+]
